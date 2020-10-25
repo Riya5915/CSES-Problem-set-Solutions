@@ -11,7 +11,7 @@ int main(int argc, char **argv){
     
     for(int i = 1; i < n; i++){
     	long long a;
-    	cin >> a;    //
+    	cin >> a; 
     	s2 += a;
 	}
 	
